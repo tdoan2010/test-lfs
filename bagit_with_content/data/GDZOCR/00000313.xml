@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><teiHeader/><text><body>
+      <figure id="IDc48" function="1225,280,1434,448"/>
+      <figure id="IDc51" function="770,303,1460,1407"/>
+      <p id="IDc45">
+        <w function="1369,232,1456,262">ТАШ</w>
+        <w function="1457,251,1464,264">:</w> </p>
+      <p id="IDc46">
+        <w function="799,280,822,299">Л</w>         <w function="886,283,906,300">F</w>   <w function="931,281,947,299">Q</w>        <w function="1001,283,1018,299">I</w> </p>
+      <p id="IDc47">
+        <w function="1200,300,1217,318">В</w> </p>
+      <p id="IDc49"> </p>
+      <p id="IDc4a">
+        <w function="1297,284,1308,302">6</w> </p>
+      <p id="IDc4b">
+        <w function="1356,289,1379,304">M</w>     <w function="1415,288,1432,305">X</w> </p>
+      <p id="IDc4c">
+        <w function="1243,379,1283,405">4S</w>
+        <w function="1285,399,1289,403">.</w> </p>
+      <p id="IDc4d"> </p>
+      <p id="IDc4e">
+        <w function="1395,380,1402,387">#</w> </p>
+      <p id="IDc4f">
+        <w function="1302,428,1318,444">Т</w>       <w function="1364,427,1370,442">1</w> </p>
+      <p id="IDc50">
+        <w function="1414,426,1434,441">к</w> </p>
+      <pb/>
+      <milestone n="313" type="page"/></body></text></TEI.2>

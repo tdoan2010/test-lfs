@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><teiHeader/><text><body>
+      <figure id="IDc91" function="142,126,216,199"/>
+      <figure id="IDc92" function="237,125,310,198"/>
+      <figure id="IDc93" function="331,125,406,198"/>
+      <figure id="IDc94" function="104,314,798,1250"/>
+      <p id="IDc95">
+        <w function="518,1207,576,1226">Illlllll</w> <w function="582,1207,688,1225">11111111111111</w> <w function="694,1216,703,1225">II</w> <w function="709,1207,767,1225">11111111</w> <w function="773,1216,791,1225">111</w> </p>
+      <p id="IDc96">
+        <w function="163,1296,235,1344">SUB</w> <w function="253,1296,439,1355">Göttingen</w><w function="453,1290,483,1354">/</w><w function="498,1294,576,1341">GDZ</w> <w function="604,1294,611,1351">|</w> <w function="641,1291,737,1339">2009</w> </p>
+      <pb/>
+      <milestone n="333" type="page"/></body></text></TEI.2>

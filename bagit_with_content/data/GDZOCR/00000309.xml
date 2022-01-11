@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><teiHeader/><text><body>
+      <figure id="IDc3f" function="803,301,899,371"/>
+      <figure id="IDc42" function="746,374,1428,1390"/>
+      <p id="IDc3d">
+        <w function="1257,113,1264,126">\</w> </p>
+      <p id="IDc3e">
+        <w function="1352,249,1426,274">TABI</w>
+        <w function="1430,269,1433,273">.</w> </p>
+      <p id="IDc40">
+        <w function="760,359,775,376">z</w>
+        <w function="776,355,802,374">/</w> </p>
+      <p id="IDc41">
+        <w function="915,323,932,343">г</w>
+        <w function="937,335,941,339">-</w> <w function="961,328,1086,348">с_____^</w> <w function="1106,313,1121,356">\</w> <w function="1147,313,1176,356">/</w><w function="1161,313,1190,356">/</w>        <w function="1281,322,1310,348">X'i</w><w function="1309,332,1315,337">-</w><w function="1312,339,1315,342">-</w><w function="1320,313,1343,348">/</w><w function="1350,329,1391,348">XE</w> </p>
+      <pb/>
+      <milestone n="309" type="page"/></body></text></TEI.2>

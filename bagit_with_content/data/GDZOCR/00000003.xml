@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2><teiHeader/><text><body>
+      <p id="ID13">
+        <w function="32,48,34,69">;</w>
+        <w function="40,50,61,70">*</w>
+        <w function="61,50,75,61">^</w> </p>
+      <p id="ID14">
+        <w function="83,50,86,53">"</w>
+        <w function="86,50,107,62">^Я</w>
+        <w function="107,50,116,63">!</w> </p>
+      <p id="ID15">
+        <w function="1,115,26,148">•Т</w>                                         <w function="434,122,480,141">AD</w> </p>
+      <p id="ID16">
+        <w function="295,172,627,203">SERENISSIMVM</w> <w function="148,241,345,279">DVCEM</w> <w function="379,245,458,280">AC</w> <w function="487,242,763,279">DOMINVM</w><w function="770,270,780,285">,</w> </p>
+      <p id="ID17">
+        <w function="275,322,655,374">DOMINVM</w> </p>
+      <p id="ID18">
+        <w function="128,409,772,484">FRIDERICVM</w>
+        <w function="783,453,799,479">,</w> </p>
+      <p id="ID19">
+        <w function="155,505,300,538">DVCEM</w> <w function="317,513,583,539">REGNANTEM</w> <w function="598,511,764,539">MECLEN</w><w function="766,524,775,531">-</w> </p>
+      <p id="ID1a">
+        <w function="343,569,565,595">BVRGICVM</w>
+        <w function="570,588,578,601">,</w> </p>
+      <p id="ID1b">
+        <w function="129,618,353,650">PRINCIPEM</w> <w function="369,623,614,652">VANDALIAE</w> <w function="636,621,803,650">SVERINI</w> </p>
+      <p id="ID1c">
+        <w function="165,679,222,706">AC</w>  <w function="247,680,543,714">RACEBVRGI^</w> <w function="562,680,767,707">COMITEM</w> </p>
+      <p id="ID1d">
+        <w function="312,736,603,763">SVERINENSEM</w>
+        <w function="607,755,615,769">,</w> </p>
+      <p id="ID1e">
+        <w function="130,789,356,818">TERRARVM</w> <w function="382,791,643,820">ROSTOCHIÏ</w> <w function="662,790,805,826">ATQVp</w> </p>
+      <p id="ID1f">
+        <w function="206,848,498,875">STARGARDIAE</w> <w function="514,849,724,876">DOMINVM</w><w function="724,867,732,881">,</w> </p>
+      <p id="ID20">
+        <w function="182,1084,379,1122">DVCEM</w> <w function="398,1085,472,1122">AC</w> <w function="490,1085,756,1123">DOMINVM</w> <w function="132,1154,302,1195">MEVM</w> <w function="321,1153,804,1195">CLEMENTISSIMVM</w> </p>
+      <p id="ID21">
+        <w function="346,1230,583,1259">PRAEFATÏO</w>
+        <w function="583,1249,590,1260">,</w> </p>
+      <pb/>
+      <milestone n="3" type="page"/></body></text></TEI.2>
