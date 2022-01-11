@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = https://gitlab.gwdg.de/tdoan/test-lfs.git/info/lfs
